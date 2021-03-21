@@ -21,5 +21,5 @@
 
 // console.log(arr[2])}
 
-let answer = prompt('Are u sure?');
-console.log(typeof(answer));
+// let answer = prompt('Are u sure?');
+// console.log(typeof(answer));
